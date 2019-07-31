@@ -1,5 +1,5 @@
 # awesome_repositories
-github上的awesome系列repositories。
+github上的awesome list。
 
 0. [awesome](https://github.com/sindresorhus/awesome)
 
