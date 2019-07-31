@@ -14,3 +14,5 @@ github上的awesome list。
 7. [awesome-django](https://github.com/shahraizali/awesome-django)
 
 8. [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+
+9. [awesome-vscode](https://github.com/viatsko/awesome-vscode)
